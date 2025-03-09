@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0242632"
-     inkscape:cx="429.08893"
-     inkscape:cy="435.92311"
+     inkscape:zoom="2.0485264"
+     inkscape:cx="584.56655"
+     inkscape:cy="431.77379"
      inkscape:window-width="1920"
      inkscape:window-height="1094"
      inkscape:window-x="-11"
@@ -1262,17 +1262,17 @@
        sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
        x="251.47426"
        y="158.60588"
        id="text29"><tspan
          sodipodi:role="line"
          id="tspan29"
-         style="stroke-width:0.2;stroke-dasharray:none"
+         style="stroke-width:0.2;stroke-dasharray:none;fill:#000000"
          x="251.47426"
          y="158.60588">GP3</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.2;stroke-dasharray:none"
+         style="stroke-width:0.2;stroke-dasharray:none;fill:#000000"
          x="251.47426"
          y="162.57463"
          id="tspan30">(gpio-shutdown)</tspan></text>
@@ -1290,57 +1290,57 @@
        id="path33" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
        x="211.81892"
        y="95.060196"
        id="text34"><tspan
          sodipodi:role="line"
          id="tspan34"
-         style="stroke-width:0.2;stroke-dasharray:none"
+         style="stroke-width:0.2;stroke-dasharray:none;fill:#000000"
          x="211.81892"
          y="95.060196">5K</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
        x="173.32988"
        y="94.801888"
        id="text35"><tspan
          sodipodi:role="line"
          id="tspan35"
-         style="stroke-width:0.2"
+         style="stroke-width:0.2;fill:#000000"
          x="173.32988"
          y="94.801888">500u</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
        x="203.80388"
        y="160.4108"
        id="text35-1"><tspan
          sodipodi:role="line"
          id="tspan35-4"
-         style="stroke-width:0.2"
+         style="stroke-width:0.2;fill:#000000"
          x="203.80388"
          y="160.4108">500u</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
        x="151.37305"
        y="112.884"
        id="text36"><tspan
          sodipodi:role="line"
          id="tspan36"
-         style="stroke-width:0.2"
+         style="stroke-width:0.2;fill:#000000"
          x="151.37305"
          y="112.884">1K</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
        x="210.26904"
        y="131.99936"
        id="text37"><tspan
          sodipodi:role="line"
          id="tspan37"
-         style="stroke-width:0.2"
+         style="stroke-width:0.2;fill:#000000"
          x="210.26904"
          y="131.99936">2K</tspan></text>
   </g>
