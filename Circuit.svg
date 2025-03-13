@@ -25,11 +25,11 @@
      inkscape:document-units="mm"
      inkscape:zoom="1.4485269"
      inkscape:cx="635.47318"
-     inkscape:cy="517.42221"
+     inkscape:cy="241.27961"
      inkscape:window-width="1920"
      inkscape:window-height="1094"
      inkscape:window-x="-11"
-     inkscape:window-y="255"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -177,15 +177,15 @@
        style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14);display:inline;fill:#000000;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"><tspan
          x="244.07812"
          y="585.01828"
-         id="tspan7">Uniterruptable
+         id="tspan12">Uniterruptable
 </tspan><tspan
          x="244.07812"
          y="600.01828"
-         id="tspan10">Power
+         id="tspan14">Power
 </tspan><tspan
          x="244.07812"
          y="615.01828"
-         id="tspan11">Supply</tspan></text>
+         id="tspan15">Supply</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
        d="m 79.03832,183.52513 34.38636,0.18269"
@@ -1324,13 +1324,13 @@
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-linejoin:miter;stroke-dashoffset:0"
        x="211.81892"
        y="95.060196"
        id="text34"><tspan
          sodipodi:role="line"
          id="tspan34"
-         style="stroke-width:0.2;stroke-dasharray:none;fill:#000000"
+         style="fill:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-linejoin:miter;stroke-dashoffset:0"
          x="211.81892"
          y="95.060196">5K</tspan></text>
     <text
@@ -1416,5 +1416,16 @@
        style="fill:#000000;stroke:#000000;stroke-width:1;stroke-dasharray:none"
        d="m 200.92251,145.9428 -0.18266,-7.48893"
        id="path37" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.2;stroke-dasharray:none;stroke:#000000"
+       x="244.02953"
+       y="60.094097"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:0.2;stroke-dasharray:none;fill:#000000;stroke:#000000"
+         x="244.02953"
+         y="60.094097">All diodes: 1N4148</tspan></text>
   </g>
 </svg>
