@@ -7,3 +7,5 @@ If another device is turned on the Pi shall also turn on.
 If another device turns off the Pi shall shutdown and turn off.
 
 ![Circuit sketch](./Circuit.svg)
+
+![Circuit stripboard](./Stripboard.png)
