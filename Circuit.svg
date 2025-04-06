@@ -25,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.72426345"
-     inkscape:cx="1469.0787"
+     inkscape:cx="878.1335"
      inkscape:cy="533.64559"
      inkscape:window-width="1920"
      inkscape:window-height="1094"
@@ -1216,17 +1216,6 @@
          style="fill:#000000;stroke-width:0.2"
          x="-7.4156723"
          y="-125.43802">R5 2.4K</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
-       x="35.310383"
-       y="-234.31613"
-       id="text9"><tspan
-         sodipodi:role="line"
-         id="tspan9"
-         style="fill:#000000;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
-         x="35.310383"
-         y="-234.31613">All diodes: </tspan></text>
     <g
        id="g21-4"
        transform="rotate(-0.37140434,-48458.168,29170.837)">
@@ -2924,7 +2913,7 @@
          style="font-size:21.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect102);display:inline;fill:#000000;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
            x="300.99609"
            y="794.04309"
-           id="tspan10">+</tspan></text>
+           id="tspan9">+</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-196.53398,-186.41472)"
@@ -2932,7 +2921,7 @@
          style="font-size:21.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect103);display:inline;fill:#000000;stroke:#000000;stroke-width:1.88976;stroke-dasharray:none"><tspan
            x="147.73633"
            y="788.51966"
-           id="tspan11">18650</tspan></text>
+           id="tspan10">18650</tspan></text>
     </g>
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-dasharray:none"
@@ -2955,7 +2944,7 @@
        style="font-size:21.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect107);display:inline;fill:#000000;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
          x="99.412109"
          y="796.80481"
-         id="tspan12">-</tspan></text>
+         id="tspan11">-</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-187.03582,-132.71361)"
@@ -2963,7 +2952,7 @@
        style="font-size:21.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect108);display:inline;fill:#000000;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
          x="300.99609"
          y="794.04309"
-         id="tspan14">+</tspan></text>
+         id="tspan12">+</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-181.92143,-130.52173)"
@@ -2971,7 +2960,7 @@
        style="font-size:21.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect109);display:inline;fill:#000000;stroke:#000000;stroke-width:1.88976;stroke-dasharray:none"><tspan
          x="147.73633"
          y="788.51966"
-         id="tspan15">18650</tspan></text>
+         id="tspan14">18650</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-dasharray:none"
        id="rect110"
@@ -2993,7 +2982,7 @@
        style="font-size:21.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect113);display:inline;fill:#000000;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
          x="99.412109"
          y="796.80481"
-         id="tspan16">-</tspan></text>
+         id="tspan15">-</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-187.40114,-110.79479)"
@@ -3001,7 +2990,7 @@
        style="font-size:21.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect114);display:inline;fill:#000000;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
          x="300.99609"
          y="794.04309"
-         id="tspan18">+</tspan></text>
+         id="tspan16">+</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-182.28675,-108.60291)"
@@ -3009,7 +2998,7 @@
        style="font-size:21.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect115);display:inline;fill:#000000;stroke:#000000;stroke-width:1.88976;stroke-dasharray:none"><tspan
          x="147.73633"
          y="788.51966"
-         id="tspan19">18650</tspan></text>
+         id="tspan18">18650</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
        d="m -68.308888,49.577899 -22.284135,-0.365313 -30.686347,0.730628 -0.36531,-16.804428 V 10.854652"
@@ -3049,7 +3038,7 @@
          style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect121);display:inline;fill:#000000;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"><tspan
            x="1081.0977"
            y="728.91867"
-           id="tspan21">USB C</tspan></text>
+           id="tspan19">USB C</tspan></text>
     </g>
     <text
        xml:space="preserve"
