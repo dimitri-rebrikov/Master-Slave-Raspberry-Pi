@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.0485264"
-     inkscape:cx="1460.5621"
-     inkscape:cy="971.67407"
+     inkscape:cx="1189.6356"
+     inkscape:cy="229.67729"
      inkscape:window-width="1920"
      inkscape:window-height="1094"
      inkscape:window-x="-11"
@@ -1363,7 +1363,7 @@
          id="tspan26"
          style="stroke-width:0.2"
          x="22.785868"
-         y="-207.14328">LM393</tspan></text>
+         y="-207.14328">IC2 LM393/2</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
@@ -1374,7 +1374,7 @@
          id="tspan26-8"
          style="stroke-width:0.2"
          x="-64.764267"
-         y="-110.27857">LM393</tspan></text>
+         y="-110.27857">IC1 LM393/1</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
        d="m 18.76742,-196.86924 v 13.15129 h 39.45387 v -14.7952"
