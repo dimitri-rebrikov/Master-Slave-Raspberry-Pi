@@ -25,11 +25,11 @@ dtoverlay=gpio-poweroff
 
 **UPS Module** continues to provide power if the main power supply is turned off
 
-**Relays module 1** prevents the batteries drain if the device is switched of for the log time
+**Relays module 1** prevents the batteries drain if the device is unused for the long period of time
 
 **Relays module 2** switches on/off the Raspberry Pi power supply
 
-**R1** switches both relays to on after the main power supply is turned on
+**R1** switches both relays on after the main power supply is turned on and the UPS starts to provide the power. Remark: the UPS provides the output power also without connected batteries in case the main power supply is on.
  
 **IC1** inverts the high signal from GPIO 26 to low signal and turns off the both relays. It also implements the flip for the delay circuit R2, C1
 
