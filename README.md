@@ -45,6 +45,6 @@ dtoverlay=gpio-poweroff
 
 **R4, R5** provide reference 1 V to the IC2, IC1 
 
-**C3** is connected directly between "+" and "-" of the IC power supply as suggested by the reference implementation.
+**C3** is connected directly between "+" and "-" of the IC power pins as suggested by the reference implementation.
 
 
