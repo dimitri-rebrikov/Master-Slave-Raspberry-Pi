@@ -10,7 +10,9 @@ If another device turns off the Pi shutdowns and turns off.
 ![Circuit board](./TriPadBoard.png)
 
 # Implementation description
-The functionality is build upon the Pi configuration possibility to initiate the shutdown from the low signal on the GPIO 03 and signal the finished shutdown with hight signal on the GPIO 26.
+The functionality is build upon the Pi configuration possibility to:
+- initiate the shutdown from the low signal on the GPIO 03 and 
+- signal the finished shutdown with the hight signal on the GPIO 26.
 
 For this the following parameters needs to be added to the `/boot/config.txt`
 ```
@@ -35,9 +37,9 @@ dtoverlay=gpio-poweroff
 
 **IC2** does not invert the signal but is necessary for the delay circuit to implement fast flip after the R7 drains the voltage on the C2 below the reference voltage of 1 V
 
-**R2, C1** implement delay of 2 sec before the Raspberry Pi is powered again
+**R2, C1** implement delay of ~ 2 sec before the Raspberry Pi is powered again in case the power was not interrupted but rather the shutdown was initiated over the command line.
 
-**R7, C2** implement delay of 20 sec between the main power los and the shutdown signal to the Raspberry Pi
+**R7, C2** implement delay of ~ 40 sec between the main power los and the shutdown signal to the Raspberry Pi. This long period of time is necessary for the case the power supply is turned off immediately after being turned on, so the shutdown signal will be issued after the Pi's OS finished initialization and is able to react to the shutdown signal.
 
 **R3, R6** are for current limiting
 
@@ -47,4 +49,11 @@ dtoverlay=gpio-poweroff
 
 **C3** is connected directly between "+" and "-" of the IC power pins as suggested by the reference implementation.
 
+## Concrete implementation
+My aim to implement this project was to embed the Raspberry Pi into my 3D Printer.
+On the pictures below you can see the result:
+- the electronic parts of the projects are mounted on a 3d printed ![base](./Base.stl)
+- the base is mounted (with double side adhesive pads, plus cable ties) in the free space of the electronic compartment of the 3d printer (Creality CR-5 Pro)
 
+![Assembly view](./Assembly.jpg)
+![Assembly inside of the CR-5 Pro electronic comparment](./CR5ProElectronicCompartment.jpg)
