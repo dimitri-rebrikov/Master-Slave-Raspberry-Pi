@@ -678,7 +678,7 @@
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
       <pinSpacing value="0.1" unit="in"/>
-      <value value="10.0" unit="uF"/>
+      <value value="220.0" unit="uF"/>
       <voltage>_63V</voltage>
       <markerColor hex="8cacea"/>
       <tickColor hex="ffffff"/>
@@ -771,7 +771,7 @@
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
-      <value value="1.0" unit="M"/>
+      <value value="100.0" unit="K"/>
       <power>HALF</power>
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
@@ -825,9 +825,9 @@
   </components>
   <groups>
     <set>
-      <diylc.boards.VeroBoard reference="../../../components/diylc.boards.VeroBoard"/>
       <diylc.boards.VeroBoard reference="../../../components/diylc.boards.VeroBoard[2]"/>
       <diylc.boards.TriPadBoard reference="../../../components/diylc.boards.TriPadBoard"/>
+      <diylc.boards.VeroBoard reference="../../../components/diylc.boards.VeroBoard"/>
     </set>
   </groups>
   <lockedLayers/>
