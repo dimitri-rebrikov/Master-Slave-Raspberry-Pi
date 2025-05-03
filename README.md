@@ -50,7 +50,7 @@ dtoverlay=gpio-poweroff
 **C3** is connected directly between "+" and "-" of the IC power pins as suggested by the reference implementation.
 
 ## Concrete implementation
-My aim to implement this project was to embed the Raspberry Pi into my 3D Printer.
+My aim to implement this project was to embed the Raspberry Pi into my 3D Printer to use it with the [Octoprint software](https://octoprint.org/).
 On the pictures below you can see the result:
 - the electronic parts of the projects are mounted on a 3d printed ![base](./Base.stl)
 - the base is mounted (with double side adhesive pads, plus cable ties) in the free space of the electronic compartment of the 3d printer (Creality CR-5 Pro)
